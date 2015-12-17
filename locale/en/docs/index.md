@@ -5,11 +5,11 @@ labels:
   lts: LTS
 ---
 
-# About Docs
+# 关于文档
 
-It's important for Node.js to provide documentation to its users, but documentation means different things to different people. Here, on nodejs.org, you will find three types of documentation, reference documentation, ES6 features, and frequently asked questions.
+Node.js为使用者提供文档很重要，但是文档对不同的用户有不同的作用。在nodejs.org，你将可以找到3类文档：参考文档，ES6（ECMAScript 2015）特征，常见问题。
 
-Our [API reference documentation](/api/) is meant to provide detailed version information about a given method or pattern in Node.js. From this documentation you should be able to identify what input a method has, the return value of that method, and what, if any, errors may be related to that method. You should also be able to identify which methods are available for different versions of Node.js.
+我们的API参考文档目的是提供Node.js中方法或模式的详尽版本信息。在这个文档中你能够确认一个方法需要哪些参数，方法的返回值以及该方法可能出现哪些错误。你能够确认不同版本的Node.js提供了哪些方法。
 
 <div class="highlight-box">
     <h3>Looking for API docs of previous releases?</h3>
